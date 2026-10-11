@@ -1,0 +1,12 @@
+{
+  "raw_rows": 5025,
+  "orders": 5000,
+  "duplicates_removed": 25,
+  "unknown_states": 20,
+  "revenue": 123510580.0,
+  "profit": 24874690.0,
+  "aov": 24702.12,
+  "margin_pct": 20.14,
+  "customers": 993,
+  "repeat_customer_pct": 96.88
+}
